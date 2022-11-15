@@ -2,7 +2,7 @@
 In this example, a color detection using OpenCV and Python is performed to separate different colors.
 
 <p align="center">
-  <img src="https://github.com/SaysWis/Image_Classification\Image_classification.jpg">
+  <img src="https://github.com/SaysWis/Image_Classification/blob/main/Image_classification.jpg">
 </p>
 
 ```
