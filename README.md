@@ -1,5 +1,6 @@
 # Image_Classification
 In this example, a color detection using OpenCV and Python is performed to separate different colors.
+The objective is to detect each color of the python logo, to be separated and denoised. That means, the blue, yellow and gray colors should be recognized. Check the (readme.pdf) file for more details.
 
 <p align="center">
   <img src="https://github.com/SaysWis/Image_Classification/blob/main/Image_classification.jpg">
