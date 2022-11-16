@@ -12,7 +12,7 @@ To try this example ...
 2. Define the upper and lower limits for your pixel values,
 3. Make a call the cv2.inRange() function which  returns a mask, specifying which pixels lie into your upper and lower limits,
 4. Once you have the mask, apply it to your image using cv2.bitwise_and() function,
-5. Remove the internal and external noise using morphologyEx() function,
+5. Remove the internal and external noise using cv2.morphologyEx() function,
 6. Add the three different processed images,
 7. That's it.
 ```
